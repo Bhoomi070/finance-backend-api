@@ -113,3 +113,21 @@ Added validation, pagination, and search functionality
 📌 Notes
 This project is built for backend evaluation purposes
 Focused on clean code, structure, and logic implementation
+
+
+
+---
+
+## 🧪 API Testing (Postman)
+
+You can test all APIs using this Postman collection:
+
+👉 [Postman Collection Link]([PASTE_YOUR_LINK_HERE](https://www.postman.com/bhoomi3100-7246192/finance-backend/collection/49014533-9982bf4c-0ae4-4584-a5cd-f54b15a5098f/?action=share&creator=49014533))
+
+Steps:
+1. Open the link
+2. Fork or import collection
+3. Run login API
+4. Copy token
+5. Add token in headers:
+   Authorization: YOUR_TOKEN
